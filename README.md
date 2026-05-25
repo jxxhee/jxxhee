@@ -31,33 +31,7 @@
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-  ### 💼 Works & Projects
-
-  **헥토파이낸셜** · 2024.05 ~ 재직중
-  선불결제·정산 시스템 백엔드 개발/운영. 카드사 승인·정산 연동, 선불 원장·잔액 관리, 정산/대사 Batch 구축. Lock 기반 동시성 제어로 데이터 정합성 확보.
-
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring 
-  Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring 
-  Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-  **하이픈코퍼레이션** · 2021.12 ~ 2024.05
-  선불결제 서비스 '하이픈페이' 초기 개발 멤버. 오픈뱅킹 기반 '바로계좌결제' 설계부터 오픈까지 주도.
-
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring 
-  Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring 
-  Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-  **써클 (Circle Inc.)** · 2021.06 ~ 2021.10 · 인턴
-  KIAT 기술거래 플랫폼 백엔드 개발 (REST API, AWS).
-
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring 
-  Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
+ 
   ### 📚 Education
   정보통신공학과 · 2016.03 ~ 2020.08
 
