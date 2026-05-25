@@ -1,4 +1,12 @@
-## Hi there 👋
+
+
+  ## 안녕하세요, 최지희입니다 👋
+
+  - 🔭 결제·포인트 도메인에서 Java/Spring 기반 백엔드 API를 개발하고 있습니다.
+  - 🌱 동시성 제어, 트랜잭션 정합성, 멱등성 설계에 관심이 많습니다.
+  - 💬 Java, Spring Boot, JPA, Oracle/MySQL 관련해서 편하게 물어봐 주세요.
+  - 📫 cjhee97@gmail.com
+
 
 <!--
 **jxxhee/jxxhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
