@@ -1,35 +1,44 @@
 
 ## 안녕하세요, 최지희입니다 👋
+### 💳 Backend Engineer
   
-  PG·핀테크 도메인에서 선불결제·정산 시스템을 설계·개발하는 백엔드 개발자입니다.
-  회원 1,000만·일 거래 500만 건 규모의 결제/정산 시스템을 개발·운영하며, 대용량 거래 환경에서의 데이터 정합성과 안정적인 운영에 집중합니다.
+PG·핀테크 도메인에서 선불결제·정산 시스템을 설계·개발하는 백엔드 개발자입니다.  
+회원 1,000만 규모 서비스와 일 거래 500만 건 이상의 결제·정산 시스템을 개발·운영하며,  대용량 트랜잭션 환경에서 데이터 정합성과 안정적인 서비스 운영에 집중하고 있습니다.
+
+#### Experienced in
+- Payment / Wallet Service Development
+- Card Company API Integration
+- Ledger & Settlement Systems
+- Idempotent Transaction Processing
+- Batch Processing
 
   [![Gmail](https://img.shields.io/badge/cjhee97@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cjhee97@gmail.com)
 
-  ### 🛠 Skills
-  
-  **Language**
 
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+---
 
-  **Back-end**
 
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-  ![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
-  ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
-  ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+### 🛠 Tech Stack
 
-  **Database**
+#### Language
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+#### Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+![TCP/IP Socket](https://img.shields.io/badge/TCP%2FIP%20Socket-1E1E1E?style=flat-square)
 
-  **Etc.**
+#### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+#### DevOps & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
  
   ### 📚 Education
@@ -38,6 +47,7 @@
   ### 😄 Award
   - **[장려상]** 한이음 ICT 공모전 · 2019.12
   - **[우수상]** 한이음 추계학술발표대회 · 2019.12
+
 
 
 
